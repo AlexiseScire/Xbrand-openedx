@@ -1,2 +1,9 @@
-// Use this file to define style overrides for @edx/paragon
-// This file is included after all Paragon styles, but should generally avoid using private mixins in Paragon.
+button #sign-in{
+    background-color: $secundary2 !important;
+    border-color: $secundary2 !important;
+}
+
+button #register-user{
+    background-color: $secundary2 !important;
+    border-color: $secundary2 !important;
+}
