@@ -1,11 +1,11 @@
-$primary: #1947BA !default;
-$secundary1: #E97200 !default;
-$secundary2: #062D59 !default;
+$primary: #1947BA !important;
+$secundary1: #E97200 !important;
+$secundary2: #062D59 !important;
 
 // Theme fonts
-$font-family-title: Plex !default;
-$serif: #1947BA !default;
-$f-sans-serif: #062D59, 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif !default;
+$font-family-title: Plex !important;
+$serif: #1947BA !important;
+$f-sans-serif: #062D59, 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif !important;
 
 // Initialize the Open edX Bootstrap theme
 @import 'edx-bootstrap/sass/open-edx/theme';
